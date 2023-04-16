@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @yashaskulkarni27
-- 👀 I’m interested in Coding, Data Science, Anime and Manga
-- 🌱 I’m currently learning C and will soon start learning phyton
+- 👀 I’m interested in Coding, Devloping and Data Science
+- 🌱 I’m currently learning phyton
 - 💞️ I’m looking to collaborate on NA
 - 📫 How to reach me,
 - gmail - yashasmkulkarni@gmail.com
